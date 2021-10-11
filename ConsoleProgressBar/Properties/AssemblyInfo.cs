@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ConsoleProgressBar")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Demo app for a console progress bar")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ConsoleProgressBar")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright ©  2021 Ben Godwin")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
