@@ -11,6 +11,9 @@ namespace ConsoleProgressBar
     /// Displays a progress bar in the console
     /// Includes the progress percent and a spinner.
     /// 
+    /// Based on this ProgressBar by DanielSWolf:
+    /// https://gist.github.com/DanielSWolf/0ab6a96899cc5377bf54
+    /// 
     /// Updates the console on a background thread. 
     /// Writes output 8 times per second, regardless of how many times the user calls Report()
     /// </summary>
